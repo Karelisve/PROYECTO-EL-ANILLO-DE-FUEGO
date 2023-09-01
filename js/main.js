@@ -104,7 +104,7 @@ const historia = {
   adelante: {
     imagen: "./img/peleabosque.jpg",
     texto:
-      "El bosque se comienza a llenar de destellos y de las ramas y arbustos comienza a emerger una figura enorme. ¡Demuestra tu honor y lucha contra el",
+      "El bosque se comienza a llenar de destellos y de las ramas y arbustos comienza a emerger una figura enorme. ¡Demuestra tu honor y lucha contra el!",
     opcion1: "pelea",
     opcion2: "",
   },
