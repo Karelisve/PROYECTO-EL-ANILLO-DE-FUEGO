@@ -26,10 +26,16 @@ body {
     background-color: #1e1a17;
 }
 
+.fondo {
+    background-image: url(../img/d.png);
+    background-position: center;
+    background-size: cover;
+}
+
 .inicio {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: cover;
     text-align: center;
     align-items: center;
     margin-bottom: 40px;

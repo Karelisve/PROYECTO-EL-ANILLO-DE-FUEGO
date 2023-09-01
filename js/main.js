@@ -272,12 +272,13 @@ const ambosVivos = () => energiaJugador > 0 && energiaMonstruo > 0;
 // Función para simular la pelea
 function pelea() {
   // Se crean elementos de entrada y salida en el DOM
-  texto.innerHTML = 'Selecciona 20 para golpes y 25 para atacar con el arma';
+  texto.innerHTML = 'Utilice el número 20 para golpear y el número 25 para atacar con el arma obtenida. ¡A por él!';
   const input = document.createElement('input');
   input.type = 'number';
   input.min = 20;
   input.max = 25;
   input.step = 5;
+  
   document.getElementById("input").appendChild(input);
 
 const output = document.createElement('div');

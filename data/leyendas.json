@@ -31,7 +31,7 @@
     },
     {
         "name":"Mazo del titán",
-        "contenido":"Tan pesada como una montaña, esta maza impacta con la fuerza de un terremoto, haciendo temblar la tierra con cada golpe",
+        "contenido":"Tan pesada como una montaña, esta maza impacta con la fuerza de un terremoto, haciendo temblar la tierra con cada golpe.",
         "imagen": "../img/mazo.jpg"
     },
     {
@@ -43,6 +43,24 @@
         "name":"Corneta del Dragón",
         "contenido":"Tallada a partir del cuerno de un dragón ancestral, su sonido convoca a estas majestuosas criaturas para acudir en ayuda de su dueño en tiempos de necesidad.",
         "imagen": "../img/corneta.jpg"
+    },
+    {
+        "name":"Espíritu del bosque",
+        "contenido":"El espíritu del bosque era un ser misterioso que habitaba en las profundidades de los árboles. Se decía que tenía el poder de controlar la naturaleza y de proteger a los animales y las plantas. Algunos lo describían como un hombre con cuernos y pezuñas, otros como una mujer con alas y flores, y otros como una criatura sin forma definida. Lo que sí se sabía era que el espíritu del bosque era bondadoso y generoso con los que respetaban su dominio, pero también vengativo y cruel con los que lo profanaban.",
+        "imagen": "../img/espiritubosque.jpg"
+    },
+    {
+        "name":"El Troll del Pantáno",
+        "contenido":"Hace siglos, un troll del pantano protegía su hogar. Los intrépidos viajeros que mostraban respeto eran guiados con seguridad, mientras que los arrogantes eran tragados por las aguas oscuras, advirtiendo así a todos sobre el poder de la humildad.",
+        "imagen": "../img/troll.jpg"
+    },
+    {
+        "name":"El Guardián de las cuevas",
+        "contenido":"En las profundidades de la tierra, el Guardián de los Túneles acechaba en la oscuridad. Quienes buscaban su sabiduría debían enfrentar sus peores pesadillas, mientras devoraba las almas de los codiciosos, atrapándolas en un abismo sin fin. Su maldición aterrorizaba a todos los que se aventuraban en su reino subterráneo.",
+        "imagen": "../img/tunelpelea.jpg"
     }
+
+
+
 
 ]
