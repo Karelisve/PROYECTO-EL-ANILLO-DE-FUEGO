@@ -5,8 +5,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>El anillo de Fuego</title>
     <link rel="shortcut icon" href="./img/favicon.ico">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-    
+    <header class="navbar"></header>
+    <main>
+        <section>
+          <h1 >El Anillo De Fuego</h1>
+          <p>Bienvenido a la Aventura del anillo</p>
+  
+          <div id="juego" class="inicio">
+                <div>
+                  <img id="imagen" src="./img/AnillodeFuego.jpg" alt="Imagen del juego">
+                </div>
+                <div>
+                  <p id="texto">¿Estas listo para seguir tu destino?<br> Elige convertirte en un Honorable Caballero o en un Mago en ascenso</p>
+                  <div id="input"></div>
+                </div>
+                <div class="botones">
+                  <button id="opcion1">Caballero</button>
+                  <button id="opcion2">Mago</button>
+                </div>
+                <div class="botones">
+                  <a href="./pages/historia.html">
+                    <button id="conocer">¡Conoce el continente del anillo!</button>
+                  </a>
+                </div>
+                <div id="botones"></div>
+                <div id="atacar"></div>
+                <p id="output"></p>
+          </div>
+        </section>
+    </main>
+
+    <footer class="footer"></footer>
+    <script src="./js/main.js"></script>
 </body>
 </html>

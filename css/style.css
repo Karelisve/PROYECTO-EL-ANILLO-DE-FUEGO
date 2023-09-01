@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  'Chakra Petch', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital@1&display=swap');
+
+.navbar {
+    background-image: url(../img/AnillodeFuegofooter.jpg);
+    background-position: center;
+    background-size:auto;
+    padding: 30px;   
+}
+
+.footer {
+    background-image: url(../img/AnillodeFuegofooter.jpg);
+    background-position: center;
+    background-size:auto;
+    padding: 50px;   
+}
+
+
+body {
+    background-color: #1e1a17;
+}
+
+.inicio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+h1 {
+    color: rgb(248, 230, 197);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+p {
+    color: rgb(248, 230, 197);
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 5x;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+#texto, #output {
+    font-weight: normal;
+}
+
+
+img {
+    width: 380px;
+    margin: 10px 20px 0px 20px;
+}
+
+
+.botones {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    background-color: none;
+}
+
+button {
+    margin: 10px;
+    padding: 20px;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.872);
+    color: rgb(201, 126, 22);
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(224, 136, 54);
+    cursor: pointer;
+}
+
+
+
+/* 
+-------------------------------------------- */
+/*PAGINA HISTORIAS*/
+
+.navbar-historia {
+    background-image: url(../img/AnillodeFuegofooter.jpg);
+    background-position: center;
+    background-size:auto;
+    padding: 10px;
+    margin: 0;
+}
+
+.titulo-historia {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 0;
+
+}
+
+.titulo-historia h1 {
+    color: rgb(248, 230, 197);
+    font-size: 40px;
+    text-align: center;
+    padding: auto;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+#contenedor {
+    margin-top: 20px;
+    background-image: url(../img/papiro.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px 0 50px 0;
+}
+
+
+#titulo {
+    font-weight: bold;
+    font-size: 2rem;
+    padding-top: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#contenido {
+    font-size: 20px;
+    color: rgb(14, 13, 11);
+}
+
+.img-historia {
+    width: 350px;
+    height: 350px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+}
+
+#botonMostrar {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+
+#botonMostrar:hover {
+    color: black;
+}

@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Mago",
+        "contenido": "En las brumosas tierras de Alderia, vivía el mago Avendel, dueño de un poder ancestral. Su sabiduría era legendaria, y los aldeanos acudían a él en busca de consejo y curación. En su torre de piedra, Avendel estudiaba antiguos pergaminos y dominaba conjuros olvidados. Sin embargo, un día oscuro, la sombra de la ambición lo tentó. Atraído por poderes prohibidos, liberó una fuerza maligna que amenazó la tierra. Atormentado por la culpa, decidió redimirse. Empleó su magia para sellar la oscuridad y proteger Alderia. Desde entonces, Avendel se convirtió en protector de la paz, aprendiendo que la verdadera grandeza reside en el equilibrio entre el poder y la compasión.",
+        "imagen": "../img/Mago.jpg"
+    },
+    {
+        "name": "Caballero",
+        "contenido": "En un reino lejano, el Caballero Dorian cabalgaba en busca de honor y gloria. Valiente y justo, protegía a los indefensos y luchaba contra la oscuridad que amenazaba su tierra. En su corazón, guardaba un juramento de lealtad al rey y a los ideales de la caballería. En una épica batalla, enfrentó a un temible dragón que aterrorizaba al pueblo. Con su espada en alto, se enfrentó a la bestia escamosa y, con astucia, logró vencerla. Su nombre se hizo legendario, y la gratitud del pueblo lo llenó de humildad. El Caballero Dorian dejó un legado eterno, un ejemplo de coraje y nobleza para las generaciones venideras.",
+        "imagen": "../img/caballero.jpg"
+    },
+    {
+        "name": "Espada del Destino",
+        "contenido": "Forjada con el alma de un héroe caído, esta espada cambia de forma según la intención de su portador. De noble corazón, se convierte en una hoja fulgurante; si la oscuridad se apodera del guerrero, se transforma en un látigo venenoso.",
+        "imagen": "../img/espadadestino.jpg"
+    },
+    {
+        "name":"Escudo de la Eternidad",
+        "contenido": "Hecho de acero celestial y grabado con runas antiguas, el escudo concede inmunidad a su portador en el momento de mayor peligro, desviando cualquier ataque mortal.",
+        "imagen": "../img/escudoeternidad.jpg"
+    },
+    {
+        "name":"Lanza del Relámpago",
+        "contenido": "Creada por un trueno divino, esta lanza es capaz de convocar tormentas y dirigirlas hacia los enemigos del portador.",
+        "imagen": "../img/lanza.jpg"
+    },
+    {
+        "name":"Daga de las Sombras",
+        "contenido":"Forjada en la profunda oscuridad, otorga invisibilidad y la capacidad de fundirse con las sombras, convirtiendo al portador en un asesino silencioso.",
+        "imagen": "../img/dagasombras.jpg"
+    },
+    {
+        "name":"Mazo del titán",
+        "contenido":"Tan pesada como una montaña, esta maza impacta con la fuerza de un terremoto, haciendo temblar la tierra con cada golpe",
+        "imagen": "../img/mazo.jpg"
+    },
+    {
+        "name":"Armadura del Alma",
+        "contenido":"Esta armadura dorada fusiona el espíritu del portador con la armadura misma, convirtiéndose en una extensión de su voluntad y protegiéndolo de cualquier daño mortal.",
+        "imagen": "../img/armadura.jpg"
+    },
+    {
+        "name":"Corneta del Dragón",
+        "contenido":"Tallada a partir del cuerno de un dragón ancestral, su sonido convoca a estas majestuosas criaturas para acudir en ayuda de su dueño en tiempos de necesidad.",
+        "imagen": "../img/corneta.jpg"
+    }
+
+]
